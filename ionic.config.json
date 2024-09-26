@@ -1,0 +1,7 @@
+{
+  "name": "CRIS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
